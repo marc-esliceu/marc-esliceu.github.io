@@ -1,7 +1,7 @@
-# Bienvenidos a mi web
+# Bienvenidos a mi web sobre FP
 
-## Contenido
+## Contenidos
 
-### Sistemas operativos
+<SISTEMAS OPERATIVOS>
 
-En este apartado hablaremos un poco sobre todos los  temas que se tocan en la assignatura
+En este apartado hablaremos un poco sobre todo el temario quue veremos a lo largo del curso en **Sistemas Operativos / CFGM SMR**
