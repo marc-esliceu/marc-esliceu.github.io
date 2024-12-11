@@ -4,4 +4,6 @@
 
 <SISTEMAS OPERATIVOS>
 
-cp ~/Descargas/liceu.png ./imagenes/
+![Es Liceu](./marc-esliceu.github.io/liceu.png)
+
+
