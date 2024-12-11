@@ -4,5 +4,4 @@
 
 <SISTEMAS OPERATIVOS>
 
-![Es Liceu] (liceu.png)
-
+cp ~/Descargas/liceu.png ./imagenes/
