@@ -5,3 +5,4 @@
 <SISTEMAS OPERATIVOS>
 
 En este apartado hablaremos un poco sobre todo el temario quue veremos a lo largo del curso en **Sistemas Operativos / CFGM SMR**
+![Gatito lindo](https://example.com/imagen-de-gatito.jpg)
